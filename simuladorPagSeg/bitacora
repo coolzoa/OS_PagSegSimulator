@@ -1,0 +1,16 @@
+PID: 1 esta esperando el semaforo Thu May 24 20:25:39 2018
+
+PID: 1 consigue el semaforo Thu May 24 20:25:39 2018
+
+PID: 1 esta poniendo sus 4 paginas en memoria Thu May 24 20:25:39 2018
+
+PID: 1 ha liberado el semaforo Thu May 24 20:25:39 2018
+
+PID: 1 ejecutando Thu May 24 20:25:39 2018
+
+PID: 2 esta esperando el semaforo Thu May 24 20:26:12 2018
+
+PID: 2 consigue el semaforo Thu May 24 20:26:12 2018
+
+PID: 2 no tuvo espacio suficiente, abortando solicitud Thu May 24 20:26:12 2018
+
